@@ -10,17 +10,21 @@ Anyone who keeps seeing "smart money is buying" or "retail is trapped" and wants
 
 ## What is inside
 
-- `01-what-the-terms-mean.md` defines retail, institutional, and the loose label "smart money," and explains why the line between them is blurry.
-- `02-order-flow-and-positioning.md` covers the mechanics that positioning claims rest on: order flow, open interest, volume, and dark pools.
-- `03-where-the-data-comes-from.md` is an honest map of the public data sources and what each one omits.
-- `04-how-claims-get-made.md` walks through how a positioning narrative is built from raw data, and where interpretation creeps in.
-- `05-common-misreadings.md` lists the recurring errors, from survivorship bias to confusing hedges with bets.
-- `06-a-skeptical-checklist.md` is a short list of questions to ask before believing any positioning claim.
+- [01-what-the-terms-mean.md](01-what-the-terms-mean.md) defines retail, institutional, and the loose label "smart money," and explains why the line between them is blurry.
+- [02-order-flow-and-positioning.md](02-order-flow-and-positioning.md) covers the mechanics that positioning claims rest on: order flow, open interest, volume, and dark pools.
+- [03-where-the-data-comes-from.md](03-where-the-data-comes-from.md) is an honest map of the public data sources and what each one omits.
+- [04-how-claims-get-made.md](04-how-claims-get-made.md) walks through how a positioning narrative is built from raw data, and where interpretation creeps in.
+- [05-common-misreadings.md](05-common-misreadings.md) lists the recurring errors, from survivorship bias to confusing hedges with bets.
+- [06-a-skeptical-checklist.md](06-a-skeptical-checklist.md) is a short list of questions to ask before believing any positioning claim.
 - `GLOSSARY.md` collects the terms in one place.
 
 ## How to use it
 
 Read `01` and `02` first to get the vocabulary, then `03` to understand the data's limits. The value here is defensive: it helps you discount overconfident claims, including your own.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
